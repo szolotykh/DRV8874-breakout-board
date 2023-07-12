@@ -1,0 +1,9 @@
+Reference,Value,Footprint,LCSC Part #,Qty
+C101,22nf,Capacitor_SMD:C_0603_1608Metric,C277528,1
+"C102, C103",0.1uf,Capacitor_SMD:C_0603_1608Metric,C14663,2
+C104,47u,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,In stock,1
+"J101, J103",M0_CONN,VsReality_Footprints:JILN JL126-50002G01,C394556,2
+R101,10K,Resistor_SMD:R_0603_1608Metric,C116677,1
+R102,1.2K,Resistor_SMD:R_0603_1608Metric,C114605,1
+R103,,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,C114605,1
+U101,,Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias,C1855818,1
